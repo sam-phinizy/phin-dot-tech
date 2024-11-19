@@ -48,4 +48,4 @@ You can then put these values in the fields:
 - Arguments: `--goto $FilePath$:$LineNumber$:$ColumnNumber$`
 - Working Directory: `$ProjectFileDir$`
 
-Then you can use the PyCharm 'Find Action' command to run 'Open in Cursor'.  You can have peanut butter in your jelly!
+Then you can use the PyCharm 'Find Action' command to run 'Open in Cursor'.  You can have peanut butter in your chocolate!
