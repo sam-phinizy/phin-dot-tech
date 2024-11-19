@@ -3,6 +3,9 @@ title: Using PyCharm With Cursor
 tags:
   - programming
   - blog
+  - pycharm
+  - cursor
+  - ai
 publish: true
 ---
 
