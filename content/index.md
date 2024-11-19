@@ -22,5 +22,5 @@ Currently I work at [Prefect](https://www.prefect.io) as a senior software engin
 ## Places to find me
 - [https://bsky.app/profile/phin.tech](https://bsky.app/profile/phin.tech)
 - [https://github.com/sam-phinizy](https://github.com/sam-phinizy)
-- [https://www.linkedin.com/in/sam-phinizy](https://www.linkedin.com/in/sam-phinizy)
+- [https://www.linkedin.com/in/samphinizy/](https://www.linkedin.com/in/samphinizy/)
 - If you want to get in touch you can email me at my first name at this domain.
