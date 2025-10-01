@@ -5,6 +5,7 @@ tags:
   - blog
   - ai
   - the-slow-inevitable-decline
+publish: true
 ---
 
 Lately I've been playing around with using Github's [SpecKit](https://github.com/github/spec-kit) a framework for getting started with "spec driven development". Which if you're not trying to be fancy is just: writing out what you're going to do before you do it. What SpecKit does is provide dedicated instructions and slash commands to your AI agent of choice to have a dedicated process for generating these docs. It'll generate out a specification, a plan and a set of tasks and then guide the AI through implementation. I've found it's really great at doing this, and for me this is one of the best features of AI: helping to automate some of the toilsome work.
